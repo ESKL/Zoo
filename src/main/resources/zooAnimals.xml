@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="utf-8"?>
+	<root>
+		<carnivoreAnimals>
+			<name>Tiger</name>
+			<amount>7</amount>
+			<name>Crocodile</name>
+			<amount>3</amount>
+		</carnivoreAnimals>
+		<herbivoreAnimals>
+			<name>Horse</name>
+			<amount>4</amount>
+			<name>Camel</name>
+			<amount>4</amount>
+		</herbivoreAnimals>
+	</root>
